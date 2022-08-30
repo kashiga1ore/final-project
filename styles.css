@@ -1,0 +1,37 @@
+.app {
+  border: 2;
+}
+
+h1 {
+  color: seagreen;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 50px;
+}
+ul {
+  color: rgb(119, 168, 140);
+  font-family: arial, sans-serif;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  line-height: 20px;
+}
+
+.app {
+  border: 1px solid rgb(119, 168, 140);
+  padding: 20px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.temp {
+  color: seagreen;
+  font-size: 35px;
+  position: relative;
+  top: 9px;
+  left: 10px;
+}
